@@ -1,0 +1,81 @@
+[{
+    "title": "Super Fruits",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPSuperFruits.png",
+    "mixer": 2074,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPSuperFruits&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "F\u00e1n R\u00f3ng",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPFanRong.png",
+    "mixer": 2132,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPFanRong&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "Lucky Fortune",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPLuckyFortune.png",
+    "mixer": 2384,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPLuckyFortune&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "Phoenix",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPPhoenix.png",
+    "mixer": 2215,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPPhoenix&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "Spectacular 7&#039;s",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPSpectacular7s.png",
+    "mixer": 1915,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPSpectacular7s&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "Hot Frozen Fruits",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPHotFrozenFruits.png",
+    "mixer": 2325,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPHotFrozenFruits&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "Pegasus",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPPegasus.png",
+    "mixer": 2533,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPPegasus&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "Ravin&#039; Hot",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPRavinHot.png",
+    "mixer": 2133,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPRavinHot&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "Golden Lion",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPGoldenLion.png",
+    "mixer": 2792,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPGoldenLion&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}, {
+    "title": "X\u00ecng F\u00fa",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/TPXingFu.png",
+    "mixer": 2361,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=TPXingFu&amp;gameCode=gmw_slot&amp;subGameID="
+    }
+}]

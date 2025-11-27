@@ -1,0 +1,33 @@
+/**** begin responsive style ****/
+.d-mobile {
+    display: block;
+}
+.d-desktop {
+    display: none;
+}
+
+footer {
+    margin-bottom: 62px;
+}
+
+@media (min-width: 993px) {
+    .d-mobile {
+        display: none;
+    }
+    .d-desktop {
+        display: block;
+    }
+
+    .marquee-wrapper > .marquee-text {
+        padding-left: 0;
+        width: 100%;
+        animation: marquee 20s linear infinite;
+    }
+    .marquee-wrapper > .marquee-text > span {
+        flex-basis: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+/**** endof responsive style ****/

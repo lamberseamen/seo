@@ -1,0 +1,81 @@
+[{
+    "title": "Hot Hot Fruit",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGHotHotFruit.png",
+    "mixer": 2760,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGHotHotFruit&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "Koi Gate",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGTheKoiGate.png",
+    "mixer": 2204,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGTheKoiGate&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "Wealth Inn",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGWealthInn.png",
+    "mixer": 2625,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGWealthInn&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "Mystic Fortune Deluxe",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGMysticFortuneDeluxe.png",
+    "mixer": 2187,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGMysticFortuneDeluxe&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "Wild Trucks",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGWildTrucks.png",
+    "mixer": 2778,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGWildTrucks&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "Laughing Buddha",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGLaughingBuddha.png",
+    "mixer": 2721,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGLaughingBuddha&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "Happiest Christmas Tree",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGHappiestChristmasTree.png",
+    "mixer": 2600,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGHappiestChristmasTree&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "5 Lucky Lions",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SG5LuckyLions.png",
+    "mixer": 2656,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SG5LuckyLions&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "Legendary Beasts",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGLegendaryBeasts.png",
+    "mixer": 2632,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGLegendaryBeasts&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}, {
+    "title": "The Big Deal Deluxe",
+    "image": "https:\/\/app-a2.game-loader.com\/img\/square\/200\/SGTheBigDealDeluxe.png",
+    "mixer": 2251,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=SGTheBigDealDeluxe&amp;gameCode=hb_slot&amp;subGameID="
+    }
+}]

@@ -1,0 +1,131 @@
+@font-face {
+    font-family: "uicons-bold-rounded";
+    src: url("https://cdn-uicons.flaticon.com/2.0.0/uicons-bold-rounded/webfonts/uicons-bold-rounded.eot#iefix") format("embedded-opentype"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-bold-rounded/webfonts/uicons-bold-rounded.woff2") format("woff2"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-bold-rounded/webfonts/uicons-bold-rounded.woff") format("woff");
+}
+
+i[class^="fi-br-"]:before, i[class*=" fi-br-"]:before, span[class^="fi-br-"]:before, span[class*="fi-br-"]:before {
+    font-family: uicons-bold-rounded;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: "uicons-solid-rounded";
+    src: url("https://cdn-uicons.flaticon.com/2.0.0/uicons-solid-rounded/webfonts/uicons-solid-rounded.eot#iefix") format("embedded-opentype"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-solid-rounded/webfonts/uicons-solid-rounded.woff2") format("woff2"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-solid-rounded/webfonts/uicons-solid-rounded.woff") format("woff");
+}
+i[class^="fi-sr-"]:before, i[class*=" fi-sr-"]:before, span[class^="fi-sr-"]:before, span[class*="fi-sr-"]:before {
+    font-family: uicons-solid-rounded;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: "uicons-bold-straight";
+    src: url("https://cdn-uicons.flaticon.com/2.0.0/uicons-bold-straight/webfonts/uicons-bold-straight.eot#iefix") format("embedded-opentype"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-bold-straight/webfonts/uicons-bold-straight.woff2") format("woff2"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-bold-straight/webfonts/uicons-bold-straight.woff") format("woff");
+}
+i[class^="fi-bs-"]:before, i[class*=" fi-bs-"]:before, span[class^="fi-bs-"]:before, span[class*="fi-bs-"]:before {
+    font-family: uicons-bold-straight;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: "uicons-solid-straight";
+    src: url("https://cdn-uicons.flaticon.com/2.0.0/uicons-solid-straight/webfonts/uicons-solid-straight.eot#iefix") format("embedded-opentype"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-solid-straight/webfonts/uicons-solid-straight.woff2") format("woff2"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-solid-straight/webfonts/uicons-solid-straight.woff") format("woff");
+}
+i[class^="fi-ss-"]:before, i[class*=" fi-ss-"]:before, span[class^="fi-ss-"]:before, span[class*="fi-ss-"]:before {
+    font-family: uicons-solid-straight;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: "uicons-brands";
+    src: url("https://cdn-uicons.flaticon.com/2.0.0/uicons-brands/webfonts/uicons-brands.eot#iefix") format("embedded-opentype"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-brands/webfonts/uicons-brands.woff2") format("woff2"),
+    url("https://cdn-uicons.flaticon.com/2.0.0/uicons-brands/webfonts/uicons-brands.woff") format("woff");
+}
+i[class^="fi-brands-"]:before, i[class*=" fi-brands-"]:before, span[class^="fi-brands-"]:before, span[class*="fi-brands-"]:before {
+    font-family: uicons-brands;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fi-bs-donate:before {
+    content: "\f46d";
+}
+.fi-sr-sack-dollar:before {
+    content: "\f88c";
+}
+.fi-br-envelope:before {
+    content: "\f4af";
+}
+.fi-brands-whatsapp:before {
+    content: "\f1d2";
+}
+.fi-brands-telegram:before {
+    content: "\f1b6";
+}
+.fi-brands-facebook:before {
+    content: "\f14f";
+}
+.fi-sr-home:before {
+    content: "\f623";
+}
+.fi-ss-messages-question:before {
+    content: "\f720";
+}
+.fi-ss-gift:before {
+    content: "\f58e";
+}
+.fi-sr-circle-user:before {
+    content: "\f366";
+}
+.fi-sr-flame:before {
+    content: "\f548";
+}
+.fi-sr-clock-three:before {
+    content: "\f38e";
+}
+.fi-br-calendar-day:before {
+    content: "\f2a0";
+}
+.fi-ss-exclamation:before {
+    content: "\f4b8";
+}
+.fi-sr-triangle-warning:before {
+    content: "\fa82";
+}

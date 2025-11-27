@@ -1,0 +1,81 @@
+[{
+    "title": "Lucky ACE",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSS-ON-00149.png",
+    "mixer": 2244,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSS-ON-00149&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "SUGAR BOOM",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSS-ON-00148.png",
+    "mixer": 2642,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSS-ON-00148&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "TREASURES OF AZTEC Z",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSS-ON-00147.png",
+    "mixer": 2332,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSS-ON-00147&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "Mahjong Ways 3+",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSS-ON-00146.png",
+    "mixer": 1987,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSS-ON-00146&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "MAHJONG WAYS 3",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSS-ON-00141.png",
+    "mixer": 2325,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSS-ON-00141&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "LUCKY CRUSH",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSTM-ON-00003.png",
+    "mixer": 2699,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSTM-ON-00003&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "LUCKY KOIN",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSTM-ON-00001.png",
+    "mixer": 2697,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSTM-ON-00001&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "CHALLENGE\u30fbGOLDEN PIG(JACKPOT)",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSS-ON-20105.png",
+    "mixer": 2340,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSS-ON-20105&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "SUPER POWERFUL(JACKPOT)",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSS-ON-20091.png",
+    "mixer": 2512,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSS-ON-20091&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}, {
+    "title": "SUPER RICH(JACKPOT)",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/playstar\/PSS-ON-20065.png",
+    "mixer": 2498,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=PSS-ON-20065&amp;gameCode=playstar_slot&amp;subGameID="
+    }
+}]

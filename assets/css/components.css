@@ -1,0 +1,337 @@
+/**** begin components style ****/
+.fixed-bottom {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: auto;
+    z-index: 9999;
+}
+
+.amp-carousel-button {
+    background-color: var(--color-9);
+    border-radius: 50px;
+}
+.amp-carousel-button:focus {
+    border: 0;
+    outline: 0;
+}
+
+.btn {
+    display: block;
+    position: relative;
+    padding: 8px 15px;
+    width: 80px;
+    color: var(--white);
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.btn.btn-login {
+    background-image: var(--gradient-2);
+    color: var(--color-1);
+}
+.btn.btn-daftar {
+    background-color: var(--color-9);
+    color: var(--color-8);
+}
+.btn.btn-block {
+    padding: 12px 15px;
+    width: 100%;
+    border-radius: 0;
+    font-size: 20px;
+}
+
+.text-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-icon .fi {
+    line-height: 1;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.menu > .menu-item {
+    padding-right: 10px;
+    border-right: 1px solid var(--color-3);
+}
+.menu > .menu-item:last-child {
+    padding-right: 0;
+    border-right: none;
+}
+.menu > .menu-item > .menu-link {
+    color: var(--light);
+    font-size: 12px;
+    line-height: 26px;
+    text-decoration: none;
+}
+
+.quick-menu {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    padding: 7px 0 5px;
+}
+.quick-menu > .quick-menu__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    color: var(--color-1);
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.quick-menu > .quick-menu__item.round {
+    margin-top: -15px;
+}
+.quick-menu > .quick-menu__item i.fi {
+    margin-bottom: 3px;
+    font-size: 22px;
+}
+.quick-menu > .quick-menu__item span {
+    font-size: 10px;
+}
+.quick-menu > .quick-menu__item.round i.fi {
+    display: block;
+    position: relative;
+    padding: 5px;
+    height: 44px;
+    background-color: var(--color-7);
+    border-radius: 50px;
+    font-size: 34px;
+    line-height: 1;
+}
+
+.marquee-wrapper {
+    display: block;
+    position: relative;
+    padding: 15px 10px;
+    overflow: hidden;
+}
+.marquee-wrapper > .marquee-text {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding-left: 100%;
+    width: max-content;
+    animation: marquee 15s linear infinite;
+}
+.marquee-wrapper > .marquee-text > span {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 100%;
+    line-height: 1;
+    font-size: 14px;
+    text-align: center;
+}
+
+.provider-wrapper {
+    display: block;
+    position: relative;
+    margin-top: 30px;
+    padding: 5px;
+    border-radius: 12px;
+}
+.provider-wrapper .provider-list {
+    display: block;
+    position: relative;
+    min-height: 60px;
+    padding: 10px 0;
+    background-color: var(--color-2);
+    border-radius: 10px;
+}
+.provider-wrapper .provider-list a {
+    text-decoration: none;
+}
+.provider-wrapper .provider-list a:last-child {
+    margin-right: 50px;
+}
+.provider-wrapper .provider-list a p {
+    font-size: 12px;
+}
+
+.game-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+}
+.game-list > .game-wrapper {
+    display: block;
+    position: relative;
+}
+.game-list > .game-wrapper > .game-box {
+    display: block;
+    position: relative;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-image: var(--gradient-1);
+    border-radius: 12px;
+}
+.game-list > .game-wrapper > .game-box amp-img {
+    border-radius: 12px;
+    box-shadow: 0 0 5px 1px var(--color-1);
+}
+.game-list > .game-wrapper > .game-box img {
+    border-radius: 12px;
+}
+.game-list > .game-wrapper > .game-box > .game-info {
+    display: block;
+    position: relative;
+}
+.game-list > .game-wrapper > .game-box > .game-info > .game-title {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 5px 5px 3px;
+    width: 145px;
+    font-size: 12px;
+    line-height: 1;
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.game-list > .game-wrapper > .game-box > .game-link {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.65);
+    border-radius: 12px;
+}
+.game-list > .game-wrapper > .game-box:hover > .game-link {
+    display: flex;
+}
+.game-list > .game-wrapper > .game-box > .game-link > .btn {
+    padding: 8px 15px;
+    width: 120px;
+    background-image: var(--gradient-2);
+    border-radius: 8px;
+    color: var(--color-1);
+}
+.game-list > .game-wrapper > .game-box > .game-link > .btn.btn-demo {
+    background-color: var(--color-9);
+    background-image: none;
+    color: var(--color-8);
+}
+.game-list > .game-wrapper > .game-pola {
+    display: block;
+    position: relative;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.game-list > .game-wrapper > .game-pola.yellow {
+    background-color: var(--yellow-500);
+}
+.game-list > .game-wrapper > .game-pola.green {
+    background-color: var(--green-500);
+}
+.game-list > .game-wrapper > .game-pola.red {
+    background-color: var(--red-500);
+}
+.game-list > .game-wrapper > .game-pola.red hr {
+    border-color: var(--light);
+}
+.game-list > .game-wrapper > .game-pola .game-pola__error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    height: 75px;
+}
+.game-list > .game-wrapper > .game-pola .game-pola__error .error-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    inset: 0;
+    width: auto;
+    height: auto;
+    font-size: 50px;
+}
+.game-list > .game-wrapper > .game-pola .game-pola__error .error-icon .fi {
+    width: 50px;
+    height: 50px;
+    line-height: 1;
+    opacity: .25;
+}
+.game-list > .game-wrapper > .game-pola .text-clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    line-height: 1;
+}
+.game-list > .game-wrapper > .game-pola .text-pola {
+    line-height: 25px;
+}
+.game-list > .game-wrapper > .game-progress {
+    display: flex;
+    position: relative;
+    height: 25px;
+    background-color: var(--white);
+    border-radius: 8px;
+    overflow: hidden;
+}
+.game-list > .game-wrapper > .game-progress > .percent-bar {
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    -ms-flex-direction: column;
+    -ms-flex-pack: center;
+    animation: progress-bar 1s linear infinite;
+    -webkit-animation: progress-bar 1s linear infinite;
+    background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+    background-size: 1rem 1rem;
+    border-radius: 0;
+    color: #fff;
+    text-align: center;
+    transition: width .6s ease;
+    overflow: hidden;
+    white-space: nowrap;
+    z-index: 1;
+}
+.game-list > .game-wrapper > .game-progress > .percent-bar.yellow {
+    background-color: var(--yellow);
+}
+.game-list > .game-wrapper > .game-progress > .percent-bar.green {
+    background-color: var(--green);
+}
+.game-list > .game-wrapper > .game-progress > .percent-bar.red {
+    background-color: var(--red);
+}
+.game-list > .game-wrapper > .game-progress > p {
+    position: absolute;
+    inset: 0;
+    width: auto;
+    height: auto;
+    color: black;
+    line-height: 27px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    z-index: 1;
+}
+/**** endof components style ****/

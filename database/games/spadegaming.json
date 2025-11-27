@@ -1,0 +1,65 @@
+[{
+    "title": "Moji Mania",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/Spadegaming\/Moji_Mania.png",
+    "mixer": 2056,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=S-MM03&amp;gameCode=sg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Gemstone Rush",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/Spadegaming\/Gemstone_Rush.png",
+    "mixer": 1984,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=S-GR02&amp;gameCode=sg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Hammer of Thunder",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/Spadegaming\/Hammer_of_Thunder.png",
+    "mixer": 2359,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=S-HT02&amp;gameCode=sg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Candy Pop 2",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/Spadegaming\/Candy_Pop_2.png",
+    "mixer": 2661,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=S-CP03&amp;gameCode=sg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Farmland Frenzy Maxways",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/Spadegaming\/Farmland_Frenzy_Maxways.png",
+    "mixer": 2629,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=S-FF01&amp;gameCode=sg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Rabbit Riches",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/Spadegaming\/Rabbit_Riches.png",
+    "mixer": 2366,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=S-RR01&amp;gameCode=sg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Caishen Deluxe Maxways",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/Spadegaming\/Caishen_Deluxe_megaways.png",
+    "mixer": 2281,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=S-CS03&amp;gameCode=sg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Christmas Miracles",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/Spadegaming\/Christmas_Miracles.jpg",
+    "mixer": 2614,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=S-CM02&amp;gameCode=sg_slot&amp;subGameID="
+    }
+}]

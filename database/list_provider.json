@@ -1,0 +1,44 @@
+{
+    "pragmatic-play": {
+        "name": "PRAGMATIC",
+        "data": "database\/games\/pragmatic-play.json",
+        "icon": "https:\/\/files.sitestatic.net\/images\/ppslot.gif?v=1",
+        "code": "pragmatic-play"
+    },
+    "pgsoft": {
+        "name": "PGSOFT",
+        "data": "database\/games\/pgsoft.json",
+        "icon": "\/assets\/images\/PGsoft.webp",
+        "code": "pgsoft"
+    },
+    "habanero": {
+        "name": "HABANERO",
+        "data": "database\/games\/habanero.json",
+        "icon": "https:\/\/files.sitestatic.net\/assets\/imgs\/game_logos\/100x70\/hb_slot.png",
+        "code": "habanero"
+    },
+    "microgaming": {
+        "name": "MICRO GAMING",
+        "data": "database\/games\/microgaming.json",
+        "icon": "https:\/\/files.sitestatic.net\/assets\/imgs\/game_logos\/100x70\/mg_slot.png",
+        "code": "microgaming"
+    },
+    "toptrend-gaming": {
+        "name": "TOPTREND GAMING",
+        "data": "database\/games\/toptrend-gaming.json",
+        "icon": "https:\/\/files.sitestatic.net\/assets\/imgs\/game_logos\/100x70\/ttg_slot.png",
+        "code": "toptrend-gaming"
+    },
+    "playstar": {
+        "name": "PLAYSTAR",
+        "data": "database\/games\/playstar.json",
+        "icon": "https:\/\/files.sitestatic.net\/assets\/imgs\/game_logos\/100x70\/playstar_slot.png",
+        "code": "playstar"
+    },
+    "gmw": {
+        "name": "GMW",
+        "data": "database\/games\/gmw.json",
+        "icon": "https:\/\/files.sitestatic.net\/assets\/imgs\/game_logos\/100x70\/gmw_slot.png",
+        "code": "gmw"
+    }
+}

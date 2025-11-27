@@ -1,0 +1,65 @@
+[{
+    "title": "Candy Gold",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/TTG\/Candy_Gold.png",
+    "mixer": 2195,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=1179&amp;gameCode=ttg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Mystic Bear",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/TTG\/MysticBear1192.png",
+    "mixer": 2040,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=1192&amp;gameCode=ttg_slot&amp;subGameID="
+    }
+}, {
+    "title": "The Crown",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/TTG\/the_crown.png",
+    "mixer": 2413,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=1187&amp;gameCode=ttg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Jelly Mania XtraStreak",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/TTG\/Jelly_Mania_XtraStreak.png",
+    "mixer": 1916,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=1190&amp;gameCode=ttg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Viking Honour XtraWild\u00e2\u201e\u00a2",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/TTG\/Viking_Honour_XtraWild.png",
+    "mixer": 2266,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=1189&amp;gameCode=ttg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Year Of The Wild Wild Tiger",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/TTG\/Year_Of_The_Wild_Wild_Tiger.png",
+    "mixer": 1965,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=1193&amp;gameCode=ttg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Aloha Spirit Xtra Lock",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/TTG\/Aloha_Spirit_Xtra_Lock.png",
+    "mixer": 2450,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=1170&amp;gameCode=ttg_slot&amp;subGameID="
+    }
+}, {
+    "title": "Santa Vs Aliens",
+    "image": "https:\/\/files.sitestatic.net\/SlotImages\/TTG\/SantavsAliens.png",
+    "mixer": 2186,
+    "links": {
+        "play": "",
+        "demo": "\/subGameLaunch?isDemo=1&amp;gameID=1188&amp;gameCode=ttg_slot&amp;subGameID="
+    }
+}]

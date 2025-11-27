@@ -1,0 +1,61 @@
+/**** begin custom colors ****/
+:root {
+    --color-1: #010315;
+    --color-2: #1a1a1a;
+    --color-3: #2b2b2b;
+    --color-4: #6f5010;
+    --color-5: #8a6f2c;
+    --color-6: #ab954c;
+    --color-7: #ccb766;
+    --color-8: #fcf299;
+    --color-9: #002d64;
+
+    --black: #000000;
+    --white: #ffffff;
+    --light: #b5c5d5;
+
+    --yellow-500: #fdff73;
+    --green-500: #74ff78;
+    --red-500: #ff8e8e;
+    --yellow: #ffc400;
+    --green: #11d617;
+    --red: #b90404;
+
+    --gradient-1: linear-gradient(to bottom, var(--color-7), var(--color-5));
+    --gradient-2: linear-gradient(to bottom, var(--color-8), var(--color-6));
+    --gradient-3: linear-gradient(to bottom, var(--color-2), var(--color-1));
+    --gradient-4: linear-gradient(to right, var(--color-4), var(--color-6), var(--color-4));
+}
+/**** endof custom colors ****/
+
+
+
+/**** begin custom background colors ****/
+.bg-color-1 { background-color: var(--color-1); }
+.bg-color-2 { background-color: var(--color-2); }
+.bg-color-3 { background-color: var(--color-3); }
+.bg-color-4 { background-color: var(--color-4); }
+.bg-color-5 { background-color: var(--color-5); }
+.bg-color-6 { background-color: var(--color-6); }
+.bg-color-7 { background-color: var(--color-7); }
+.bg-color-8 { background-color: var(--color-8); }
+.bg-color-9 { background-color: var(--color-9); }
+
+.bg-black { background-color: var(--black); }
+.bg-white { background-color: var(--white); }
+
+.bg-gradient-1 { background-image: var(--gradient-1); }
+.bg-gradient-2 { background-image: var(--gradient-2); }
+.bg-gradient-3 { background-image: var(--gradient-3); }
+.bg-gradient-4 { background-image: var(--gradient-4); }
+/**** endof custom background colors ****/
+
+
+
+/**** begin custom text colors ****/
+.text-black { color: var(--black); }
+.text-white { color: var(--white); }
+.text-light { color: var(--light); }
+
+.text-gold { color: var(--color-7); }
+/**** endof custom text colors ****/
